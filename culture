@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CULTURE FARMS - Natural Wellness Powders</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background: #f9faf9; color: #333; }
+  header { text-align: center; margin-bottom: 40px; }
+  h1 { color: #2c7a2c; }
+  section { margin-bottom: 30px; }
+  h2 { border-bottom: 2px solid #2c7a2c; padding-bottom: 10px; }
+  ul { list-style: none; padding-left: 0; }
+  ul li { background: #d4e6d4; margin: 8px 0; padding: 10px; border-radius: 5px; }
+  footer { text-align: center; font-size: 0.9em; color: #777; margin-top: 50px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Welcome to CULTURE FARMS</h1>
+  <p>Your source for pure, natural wellness powders inspired by traditional health practices.</p>
+</header>
+
+<section>
+  <h2>Our Products</h2>
+  <ul>
+    <li><strong>Moringa Powder:</strong> Rich in nutrients to support overall health and vitality.</li>
+    <li><strong>Amla Powder:</strong> Loaded with vitamin C and antioxidants for immune support.</li>
+    <li><strong>Beetroot Powder:</strong> Promotes heart health and energy naturally.</li>
+    <li><strong>Jamun Seeds Powder:</strong> Helps regulate blood sugar and supports digestion.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Our Promise</h2>
+  <p>We deliver 100% pure, sustainably farmed powders processed to retain maximum natural goodness. CULTURE FARMS is committed to promoting health and wellness through trusted traditional ingredients.</p>
+</section>
+
+<section>
+  <h2>Contact Us</h2>
+  <p>Email: info@culturefarms.com</p>
+  <p>Phone: +91-XXXXXXXXXX</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 CULTURE FARMS. All rights reserved.</p>
+</footer>
+</body>
+</html>
